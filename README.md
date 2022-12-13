@@ -285,5 +285,7 @@ do write memory
  
 </div>
 
+<div align="center">
 © Most Humayra Khanom
+</div>
 
