@@ -282,10 +282,7 @@ do write memory
  </br>
 
  </br>
- 
+ © Most Humayra Khanom
 </div>
 
-<div align="center">
-© Most Humayra Khanom
-</div>
 
