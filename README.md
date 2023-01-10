@@ -282,7 +282,7 @@ do write memory
  </br>
 
  </br>
- © Most Humayra Khanom
+ © Most Humayra Khanom Rime
 </div>
 
 
